@@ -1,0 +1,37 @@
+html {
+    font-family: 'Homemade Apple', cursive; 
+    background-color: #282422;
+    background-image: radial-gradient(#3C3A3B, #282422);
+    background-size: cover;
+  }
+  
+  body {
+    border: 30px solid;
+    border-image: url('http://thecutestblogontheblock.com/wp-content/uploads/2013/01/chalkboard-charmer-free-3-column-background.jpg')  fill  0 500/ 0 200px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #00eeff;
+    font-size: 2.75em;
+  }
+  
+  ul {
+      padding: 0px;
+    width: 55%;
+    color: #ff0000;
+    font-size: 2em;
+    margin: 0 auto;
+  }
+  
+  li::marker{
+    content: '✓   ';
+  }
+  
+  li.desert {
+    color: #00ff0d;
+  }
+  
+  html,body {
+    margin: 0;
+    padding:0;}
