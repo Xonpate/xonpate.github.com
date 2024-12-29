@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
 html {
-    font-family: 'Homemade Apple', cursive; 
+    font-family: 'Permanent Marker', cursive; 
     background-color: #282422;
     background-image: radial-gradient(#3C3A3B, #282422);
     background-size: cover;
@@ -17,7 +19,7 @@ html {
   }
   
   ul {
-      padding: 0px;
+    padding: 0px;
     width: 55%;
     color: #ff0000;
     font-size: 2em;
